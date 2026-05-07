@@ -10,6 +10,6 @@ langgraph>=0.1.0
 psycopg2-binary>=2.9.9
 langchain-community>=0.0.20
 google-cloud-iam
-google-cloud-resourcemanager
+google-cloud-resource-manager
 google-cloud-run
 google-cloud-functions
